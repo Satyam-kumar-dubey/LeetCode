@@ -11,11 +11,8 @@ public:
             l++;
         }
         bool f = isupper(s[0]);
-        if(f && l == s.size()-1)
-        return true;
-        else if(u == s.size() || l == s.size())
-        return true;
-        else
-        return false;
+
+        return ((f && l == s.size()-1) || (u == s.size() || l == s.size()) ? true : false);
+
     }
 };
