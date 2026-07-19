@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/0520-detect-capital) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Array
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
 |  |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
