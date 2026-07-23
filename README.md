@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-last-stone-weight](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1260-shift-2d-grid) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3975-filter-occupied-intervals) |
 ## Greedy
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Stack
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1260-shift-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
