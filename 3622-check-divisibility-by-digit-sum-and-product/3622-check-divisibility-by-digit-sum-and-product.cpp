@@ -3,18 +3,14 @@ class Solution {
 public:
     bool checkDivisibility(int n)
     {
-        int n1 = n, org = n;
-        ll sum = 0;
+        int org = n;
+        ll sum = 0, prod = 1;
         while(n > 0)
         {
-            sum += n%10;
+            int dig = n % 10;
+            sum += dig;
+            prod *= dig;
             n = n/10;
-        }
-        ll prod = 1;
-        while(n1 > 0)
-        {
-            prod *= n1 % 10;
-            n1 = n1 / 10;
         }
         return (org % (sum+prod) == 0 ? true : false);
     }
