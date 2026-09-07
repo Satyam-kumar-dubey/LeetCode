@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-last-stone-weight](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
