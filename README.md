@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3731-find-missing-elements) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3731-find-missing-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3731-find-missing-elements) |
