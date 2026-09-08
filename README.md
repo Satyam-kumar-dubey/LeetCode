@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3870-count-commas-in-range](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Stack
 |  |
 | ------- |
