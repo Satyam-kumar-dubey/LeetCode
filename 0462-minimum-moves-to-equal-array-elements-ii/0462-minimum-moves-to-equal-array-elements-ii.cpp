@@ -6,11 +6,8 @@ public:
         int mid = v.size() / 2;
 
         int moves = 0;
-        for(int i=0; i<=mid; i++)
-        moves += v[mid] - v[i];
-
-        for(int i=mid+1; i<v.size(); i++)
-        moves += v[i] - v[mid];
+        for(int x : v)
+        moves += abs(x - v[mid]);
 
         return moves;
     }
