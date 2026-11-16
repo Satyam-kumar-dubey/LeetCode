@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/1260-shift-2d-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Satyam-kumar-dubey/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
